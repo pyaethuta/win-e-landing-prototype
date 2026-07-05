@@ -45,7 +45,9 @@ h3,
 p {
   overflow-wrap: anywhere;
 }
-
+.win-everest-logo{
+  width: 10%;
+}
 .site-header {
   position: fixed;
   inset: 0 0 auto;
@@ -63,7 +65,7 @@ p {
 .site-header.solid,
 .site-header.is-scrolled,
 .site-header.is-open {
-  background: rgba(7, 65, 125, 0.97);
+  background: #07417df7;
   box-shadow: 0 16px 38px rgba(4, 31, 62, 0.2);
 }
 
