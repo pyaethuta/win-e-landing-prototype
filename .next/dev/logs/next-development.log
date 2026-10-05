@@ -1,0 +1,5 @@
+{"timestamp":"00:00:13.630","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:16.656","source":"Server","level":"LOG","message":"○ Compiling /projects ..."}
+{"timestamp":"00:00:21.734","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:25.569","source":"Browser","level":"WARN","message":"Image with src \"/assets/client-photos/highrise-crane-vertical.png\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\"eager\"` property if this image is above the fold.\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading"}
+{"timestamp":"00:00:25.892","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/assets/client-photos/highrise-crane-vertical.png\\\" was detected as the Largest Contentful Paint (LCP). Please add the `loading=\\\"eager\\\"` property if this image is above the fold.\\nRead more: https://nextjs.org/docs/app/api-reference/components/image#loading\\u001b[39m\""}
