@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "staff-party-2026",
+    "title": "Staff Party 2026",
+    "category": "Company event",
+    "publishedAt": "2026-09-30T09:00:00.000Z",
+    "featured": true,
+    "excerpt": "Culture, recognition, and team connection. A look back at our staff appreciation evening.",
+    "body": [
+      "A company event page can highlight internal milestones, staff appreciation moments, team culture, and leadership messages without mixing them into the project portfolio.",
+      "Ideal for event recaps, photo galleries, announcements, and partner-facing company moments."
+    ],
+    "image": "/assets/banners/articles-banner.png",
+    "imageAlt": "High-rise construction site with tower cranes"
+  },
+  {
+    "slug": "site-progress-notes",
+    "title": "Site progress notes",
+    "category": "Project update",
+    "publishedAt": "2026-09-20T09:00:00.000Z",
+    "excerpt": "Publish progress stories that explain what stage the work has reached, what teams are coordinating, and what partners should know next.",
+    "body": [
+      "Publish progress stories that explain what stage the work has reached, what teams are coordinating, and what partners should know next."
+    ],
+    "image": "/assets/client-photos/highrise-crane-vertical.png",
+    "imageAlt": "High-rise construction site progress"
+  },
+  {
+    "slug": "foundation-and-rebar-highlights",
+    "title": "Foundation and rebar highlights",
+    "category": "Technical post",
+    "publishedAt": "2026-09-10T09:00:00.000Z",
+    "excerpt": "Use article posts to explain ground preparation, formwork, concrete pouring, and structural quality checks in a client-friendly way.",
+    "body": [
+      "Use article posts to explain ground preparation, formwork, concrete pouring, and structural quality checks in a client-friendly way."
+    ],
+    "image": "/assets/client-photos/foundation-rebar-detail.png",
+    "imageAlt": "Foundation construction work"
+  },
+  {
+    "slug": "worksite-safety-reminders",
+    "title": "Worksite safety reminders",
+    "category": "Safety post",
+    "publishedAt": "2026-09-01T09:00:00.000Z",
+    "excerpt": "Highlight PPE rules, prohibited actions, emergency readiness, and practical site discipline for teams and visitors.",
+    "body": [
+      "Highlight PPE rules, prohibited actions, emergency readiness, and practical site discipline for teams and visitors."
+    ],
+    "image": "/assets/client-photos/rebar-safety-crew.png",
+    "imageAlt": "Construction site crew with safety equipment"
+  },
+  {
+    "slug": "completed-work-and-handover-stories",
+    "title": "Completed work and handover stories",
+    "category": "Community",
+    "publishedAt": "2026-08-20T09:00:00.000Z",
+    "excerpt": "Showcase completed spaces, handover moments, usability improvements, and the practical value created for campuses or communities.",
+    "body": [
+      "Showcase completed spaces, handover moments, usability improvements, and the practical value created for campuses or communities."
+    ],
+    "image": "/assets/client-photos/win-everest-site-wide.png",
+    "imageAlt": "Win Everest construction site structure"
+  }
+]
