@@ -5,6 +5,9 @@ import "./styles-original.css";
 export const metadata: Metadata = {
   title: "Win Everest Construction Company Limited",
   description: "Win Everest Construction Company Limited is a Myanmar construction company delivering building construction, civil engineering, infrastructure, project management, equipment rental, and trading services.",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export const viewport: Viewport = {
