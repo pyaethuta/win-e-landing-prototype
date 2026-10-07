@@ -45,7 +45,7 @@ export default function Header() {
           alt="Win Everest Company Limited"
           className="brand-logo"
         />
-       <b>Win Everest Construction</b>
+       <b>WIN EVEREST Construction Co., Ltd.</b>
       </Link>
       
       <button
