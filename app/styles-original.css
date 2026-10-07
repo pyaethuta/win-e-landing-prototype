@@ -163,8 +163,8 @@ p {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(90deg, rgba(4, 31, 62, 0.92), rgba(7, 65, 125, 0.62) 46%, rgba(7, 65, 125, 0.12)),
-    linear-gradient(0deg, rgba(4, 31, 62, 0.38), rgba(4, 31, 62, 0.02));
+    linear-gradient(90deg, rgba(4, 31, 62, 0.4), rgba(7, 65, 125, 0.3) 46%, rgba(7, 65, 125, 0.1)),
+    linear-gradient(0deg, rgba(4, 31, 62, 0.2), rgba(4, 31, 62, 0.02));
   content: "";
 }
 
@@ -188,7 +188,7 @@ p {
   align-self: center;
   width: min(760px, calc(100% - 36px));
   margin-left: clamp(18px, 6vw, 92px);
-  padding-top: 74px;
+  padding-top: 100px;
   color: var(--white);
 }
 
@@ -1043,8 +1043,8 @@ body {
 
 .hero::after {
   background:
-    linear-gradient(90deg, rgba(4, 31, 62, 0.96), rgba(4, 31, 62, 0.68) 42%, rgba(4, 31, 62, 0.2)),
-    repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.11) 0 1px, transparent 1px 18px);
+    linear-gradient(90deg, rgba(4, 31, 62, 0.4), rgba(4, 31, 62, 0.3) 42%, rgba(4, 31, 62, 0.1)),
+    repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0 1px, transparent 1px 18px);
 }
 
 .hero-image {
@@ -1820,8 +1820,8 @@ button {
 
 .hero::after {
   background:
-    linear-gradient(90deg, rgba(4, 30, 58, 0.86), rgba(4, 30, 58, 0.44), rgba(4, 30, 58, 0.16)),
-    linear-gradient(0deg, rgba(4, 30, 58, 0.52), transparent 42%);
+    linear-gradient(90deg, rgba(4, 30, 58, 0.3), rgba(4, 30, 58, 0.2), rgba(4, 30, 58, 0.08)),
+    linear-gradient(0deg, rgba(4, 30, 58, 0.2), transparent 42%);
 }
 
 .hero-panel {
@@ -2466,8 +2466,30 @@ button {
   }
 
   .hero {
-    min-height: 76svh;
-    padding-top: 96px;
+    min-height: 70svh;
+    padding-top: 86px;
+  }
+  
+  .hero-panel h1 {
+    font-size: clamp(2.5rem, 10vw, 3.5rem) !important;
+    line-height: 1.1 !important;
+    margin-bottom: 16px !important;
+  }
+  
+  .hero-panel p:not(.eyebrow) {
+    padding-left: 14px !important;
+    border-left-width: 4px !important;
+    font-size: 1rem !important;
+    margin-bottom: 24px !important;
+  }
+  
+  .hero-actions {
+    flex-direction: column !important;
+    gap: 12px !important;
+  }
+  
+  .hero-actions .button {
+    width: 100% !important;
   }
 
   .hero-panel {
@@ -3635,8 +3657,8 @@ button {
 
 .hero::after {
   background:
-    linear-gradient(90deg, rgba(3, 27, 53, 0.9) 0%, rgba(5, 47, 93, 0.69) 45%, rgba(5, 47, 93, 0.12) 76%),
-    linear-gradient(0deg, rgba(3, 27, 53, 0.34), rgba(3, 27, 53, 0.02) 52%) !important;
+    linear-gradient(90deg, rgba(3, 27, 53, 0.3) 0%, rgba(5, 47, 93, 0.2) 45%, rgba(5, 47, 93, 0.06) 76%),
+    linear-gradient(0deg, rgba(3, 27, 53, 0.15), rgba(3, 27, 53, 0.02) 52%) !important;
 }
 
 .home-banner-image {

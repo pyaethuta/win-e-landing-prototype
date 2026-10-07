@@ -41,11 +41,13 @@ export default function Header() {
     >
       <Link href="/" className="brand brand-logo-link" aria-label="Win Everest home">
         <img
-          src="/assets/win-everest-main-logo.png"
+          src="/assets/win-everest-logo.png"
           alt="Win Everest Company Limited"
           className="brand-logo"
         />
+       <b>Win Everest Construction</b>
       </Link>
+      
       <button
         className="menu-toggle"
         type="button"
